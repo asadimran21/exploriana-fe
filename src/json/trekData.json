@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"title": "Fairy Meadows and Nanga Parbat Base Camp",
+		"description": "I’ve been lucky enough to visit the Fairy Meadows three times now while backpacking in Pakistan, it’s a truly amazing place. It’s not just the name that’s mythical, the place itself is magical. I’ve been to The Fairy Meadows in February (very challenging as there was waist-deep snow in places) and August and September.If you go at the right time of the year, i.e. when it’s not covered in snow, you can push on to Nanga Parbat Basecamp – an 8 hour round trip hike.",
+		"price": "Duration: 2 days",
+		"image": "../images/fairy.jpg"
+	},
+	{
+		"id": 2,
+		"title": " Barah Broq",
+		"description": "Barah Broq is a relatively offbeat trail about a 3-hours drive from Skardu. The trail takes its name from the village of Barah, where the trail starts, and the village is about as authentic as it gets. The houses are still made from mud around here and the #1 commodity is apricots, which the village is famous for. Experiencing both make Barah worth visiting.",
+		"price": "Duration: 2-3 days",
+		"image": "../images/Barah.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Patundas",
+		"description": "If you’re looking for a truly epic adventure, look no further than the Patundas trek. Starting from just above Borith Lake, the trek to Patundas will take you across the beautiful Passu Glacier to a meadow that sits at 4170m. From Patundas, you’ll be greeted with jaw-dropping views of the Batura Glacier, the iconic Passu Cones, Shispare Peak, and more.",
+		"price": "Duration: 2-3 days",
+		"image": "../images/Patundas.jpg"
+	},
+	{
+		"id": 4,
+		"title": "K2 Expedition via Baltoro Glacier",
+		"description": "It’s the granddaddy of all mountains in Pakistan; the singular reason why many people decide to travel to the country in the first place. At 8611 meters, K2 is the second-highest mountain in the world and without a doubt one of the greatest adventures we can think of.",
+		"price": "Duration: 10 days",
+		"image": "../images/K2.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Margalla Hills",
+		"description": "It’s handy that there’s actually an extension of the Himalayas right on the doorstep of Islamabad. Chances are you will start your Pakistan backpacking adventure in either Lahore or Islamabad, so why not get into some of the best hiking tracks in Islamabad?",
+		"price": "Duration: 2-6 hours",
+		"image": "../images/Margalla.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Dunga Gali-Ayubia Track",
+		"description": "This one is better known as the ‘Pipeline Track’ since it follows the route of an important water pipeline that used to service the historic hill station of Murree. That’s convenient because it now offers an easy hike from Dunga Gali to Ayubia within Ayubia National Park. ",
+		"price": "Duration: 2-4 hours",
+		"image": "../images/Dunga.jpg"
+	},
+	{
+		"id": 7,
+		"title": "Miranjani",
+		"description": "North of the Pipeline Hike is another hill station town, Nathia Gali, to the east of Abbottabad. From this former colonial hill station, you can walk just 2 to 3 hours to the summit of a nearby mountain, Miranjani. ",
+		"price": "Duration: 2-3 hours",
+		"image": "../images/Miranjani.jpg"
+	},
+	{
+		"id": 8,
+		"title": "Passu to Borith Lake",
+		"description": "Passu is probably my favourite place in Pakistan, although honestly, it’s tough to pick as I also love Karimabad, Deosai, The Fairy Meadows and a string of other truly special places… OK, OK, back to Passu! Passu is a village famous for the Passu Cone mountains and an Indiana Jones-esque bridge crossing a raging river",
+		"price": "Duration: 3-4 hours",
+		"image": "../images/Passu.jpg"
+	},
+	{
+		"id": 9,
+		"title": "Naltar Valley Lakes",
+		"description": "West of Rakaposhi is the magical Naltar Valley, famed in winter for its skiing as the ‘Magic Carpet of Pakistan’ – ski competitions are held here under the watchful eye of the Pakistan Air Force… But we are here for the hiking and luckily the natural scenery here is incredible and undoubtedly one of the most beautiful places to travel in Pakistan.  ",
+		"price": "Duration: 2-6 hours",
+		"image": "../images/Naltar.jpg"
+	},
+	{
+		"id": 10,
+		"title": "Minapin to Rakaposhi Base Camp",
+		"description": "In another section of the stunning Hunza Valley is this hike to the base camp of Rakaposhi, the 27th highest mountain in the world. It’s proven tricky to climb its summit over the years so there have only been 8 successful expeditions since it was first done in 1958! However, trekking to the Base Camp is relatively easy and you can do it with basic camping gear.",
+		"price": "Duration: 2-3 Days",
+		"image": "../images/rakaposhi.jpg"
+	}
+]

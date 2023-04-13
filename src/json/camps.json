@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"title": "The basic ridge tent",
+		"description": "This is the classic tent shape that a child might draw. It has a pole at each end and sometimes a cross pole - the ridge - holding up a tent-shaped roof, hence the name. Ridge tents are remarkably stable and range from tiny one-person tents right up to large marquees. They are easy to pitch and still make excellent shelters today. Their main disadvantage is in head height – even in the largest units there’s limited height in most of the tent. This doesn’t matter when you’re using the tent purely for sleeping, but makes it less than ideal for a family holiday in the rain if you can’t walk around inside.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Dome tent",
+		"description": "You'll see plenty of flexible pole tents on site today. The basic shape bends a flexible pole into a half circle with both ends fixed to a strong tape or webbing strap running across the base of the tent, often as part of the groundsheet. Two flexible poles crossing in the middle give a square dome, three poles a hexagon. The sides are more vertical so overall headroom is better across a wider floor area than in a ridge tent. Stability is good in smaller models but, unlike the ridge tent, domes can get less stable as they scale up in size.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Instant or quick-pitch tents",
+		"description": "Instant tents are made by a number of suppliers and are the latest in a range of tents that almost pitch themselves. A long, coiled, sprung frame is permanently fitted into the fabric of the tent.  By twisting the frame, the tent becomes a circular package.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Inflatable tents",
+		"description": "Inflatable-tube tents have made big inroads in to the market in recent years. They are quick to pitch but can have their disadvantages. One is that the frame and the fabric come in one package. In a poled tent you can separate out the poles and move them separately. With air tubes you need to move the whole tent in one go, which can be quite heavy.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 5,
+		"title": "The knuckle-jointed system",
+		"description": "The best known and the longest-established of the ‘instant tents’ with knuckle joints are those from manufacturer Khyam, whose large range of tents has been on the market for more than a decade. The system is based on a simple sprung ‘knuckle’ or elbow joint. This can hold a flexible pole straight or be ‘broken’ to let the pole bend. The tent skeleton is permanently fitted to the fabric and putting the tent up is as simple as getting it out of its bag and letting the poles fall into the right position, similar to opening an umbrella. Working round the tent, the poles are straightened using elbow joints to allow the tent to adopt its final shape. Just be careful not to pinch your finger.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Tunnel tents",
+		"description": "Domes don’t necessarily give the largest amount of useable space, so another way of using flexible poles is to bind them into semi-circles and stand them up in a line to create a tunnel tent. Other tunnels use sturdy, rigid poles to form their structure. Tunnels come in a huge variety of sizes and styles and are perhaps the most common form of family tents found on campsites today.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 7,
+		"title": "Vis-á-vis",
+		"description": "Once domes and tunnels started to grow, tent designers added extra rooms to the basic structure. The trend started in France where a large central part of the tent would offer standing headroom, and an annexe room off each side would offer two sleeping compartments. These two compartments faced one another. They were face to face, hence the French description vis-à-vis. Vis-à-vis tents can be domes or tunnels and indeed, some of the first were square frame tents.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 8,
+		"title": "Pod living",
+		"description": "Some of the largest tents on the market these days are pod-style. They have a central living area with several sleeping areas (‘pods’) leading off, like spokes from the hub of a wheel. These tents look great in the showroom. In the family setting, children can have their own spaces with good air gaps between and everyone can congregate at the heart of the tent during the day.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 9,
+		"title": "Large family tents",
+		"description": "Tent designers are coming up with ever more complex designs and scaling up their favourite small tent shapes into bigger family ones. Scaling up is not always a good idea - not all designs work as well in differing sizes and some very unstable giant domes have been produced. Generally speaking, tunnels work better in bigger sizes but they can act effectively as kites if the wind catches them before they are properly pegged out.",
+		"image": "../images/Ratti-Gali.jpg"
+	},
+	{
+		"id": 10,
+		"title": "Frame tents",
+		"description": "The flexible pole hasn’t done away with the traditional rigid frame tents - these still exist, though they are few and far between. They use a rigid framework of straight poles (usually steel) with angled joints and can still offer lots of space including good headroom, plus stability when properly pitched. On the down side, frame tents tend to be heavier and take somewhat longer to put up than other tents.",
+		"image": "../images/Ratti-Gali.jpg"
+	}
+]
